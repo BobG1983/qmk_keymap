@@ -1,1 +1,8 @@
+OLED_ENABLE = yes
+OLED_DRIVER = SSD1306
+CONSOLE_ENABLE = yes
+EXTRAKEY_ENABLE = yes
+
+WPM_ENABLE = yes
+
 SRC += source.c
